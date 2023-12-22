@@ -1,7 +1,7 @@
 # letsvibe
 a semantic way of vibing together!
 
-#the idea
+# the idea
 
 this is just an idea and look to find someone that could help get the project going or share any insights on how I can make it a reality as I am not an experienced dev
 
