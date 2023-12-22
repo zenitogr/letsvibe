@@ -12,8 +12,11 @@ e.g.1: someone makes a post (any form):
 there is a reaction system where you select any of the following:
 
 a. this makes me feel: user inputs a text of what the video made them feel
+
 b. this sounds like: user inputs how its sounds to them
+
 c. this reminds me of: user inputs what it reminds them
+
 d. this made me think of: user inputs what it made them think of
 
 and so on
@@ -26,7 +29,7 @@ when somone reacts with a post they are linked so people reading one post can au
 
 a way of combining posts and reactions and pros and cons so you can apply the reactions system and pros and cons to the combinations etc
 
-the result: 
+# the result: 
 
 this could be the semantic way of unlimited interconnected information and media 
 
